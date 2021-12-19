@@ -1,6 +1,10 @@
 # hot_100_scraper
 Based on https://github.com/jsubroto/billboard-hot-100-web-scraper/blob/master/billboard_hot_100_websraper.py, reworked to be more robust + works with updated site format
 
+Need to install python to use: https://www.python.org/downloads/
+
+Run via command line; ex: py hot_100_bulk_data_pull
+
 No command line options, I wrote this mostly for personal use and I'm too lazy to add them.
 
 Pull script will create a new file. Append script will add columns to an existing file.
